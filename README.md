@@ -1,2 +1,2 @@
 # coolOrange_CandidateChallenge-master
-import the files in a C# IDE
+import the folder in a C# IDE
